@@ -346,12 +346,12 @@ public class SimpleStackTester {
         sb.setLength(0);
 
         if (!expected.equals(actual)) {
-            System.out.println("FAILED: testPush.\n");
+            System.out.println("FAILED: testSearch.\n");
             System.out.println(expected);
             System.out.println();
             System.out.println(actual);
         } else {
-            System.out.println("PASSED: testPush.");
+            System.out.println("PASSED: testSearch.");
         }
     }
 }
