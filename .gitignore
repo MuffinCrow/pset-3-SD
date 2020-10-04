@@ -2,4 +2,6 @@
 .project
 .settings/
 bin/
-src/SimpleStack.java
+.idea
+pset-3-SD.iml
+out/
